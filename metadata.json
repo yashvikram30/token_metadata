@@ -1,6 +1,6 @@
 {
-  "name": "Yash's NFT",
-  "symbol": "YASH",
+  "name": "USD",
+  "symbol": "USD",
   "description": "Unique NFT created by Yash using a custom smart contract on Solana.",
   "image": "https://github.com/yashvikram30/nft_smart_contract/blob/main/nft.png?raw=true"
 }
